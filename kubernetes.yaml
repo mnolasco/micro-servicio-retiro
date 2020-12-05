@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: service-retiro
-        image: mnolasco/micro-retiro-quarkus-2
+        image: mnolasco/micro-retiro-quarkus-2:v2.#{Build.BuildId}#
         ports:
         - containerPort: 8080
       imagePullSecrets:
