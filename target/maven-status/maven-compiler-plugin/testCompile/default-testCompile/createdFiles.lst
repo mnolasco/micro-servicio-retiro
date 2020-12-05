@@ -1,0 +1,3 @@
+org\acme\resteasy\HelloResourceTest.class
+org\acme\resteasy\NativeHelloResourceIT.class
+META-INF\panache-archive.marker

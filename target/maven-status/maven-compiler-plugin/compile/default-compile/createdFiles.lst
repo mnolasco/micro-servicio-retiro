@@ -1,0 +1,10 @@
+org\aforo255\retiro\RetiroResource.class
+org\aforo255\retiro\service\ITransactionService.class
+org\aforo255\retiro\repository\TransactionRepository.class
+org\aforo255\retiro\service\TransactionService.class
+META-INF\panache-archive.marker
+org\aforo255\retiro\entity\Transaction.class
+org\aforo255\retiro\HelloResource.class
+org\aforo255\retiro\service\ICurrentService.class
+org\aforo255\retiro\entity\Currency.class
+org\aforo255\retiro\CryptoResource.class
